@@ -1,8 +1,8 @@
-# Modelo de Predição de Colesterol | [Vídeo Apresentação do Projeto](#)
+# Modelo de Predição de Colesterol 
 
 ---
 
-<img src="./.github/modelo_colesterol_RLM.png" alt="modelo_colesterol_RLM" title="Modelo de Predição de Colesterol">
+<img src="./.github/1.png" alt="modelo_colesterol_RLM" title="Modelo de Predição de Colesterol">
 
 ---
 
